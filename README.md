@@ -1,2 +1,4 @@
 # atomiverse.github.io
-Atomic based AI Technology
+Atomic based AI Technologies
+JS
+HTML
